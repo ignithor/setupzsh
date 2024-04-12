@@ -1,22 +1,19 @@
-# setupzsh
+#Install my setup
 
-Install my setup :
-
-Terminator 
+#Terminator 
 sudo apt install terminator
 
 
-Oh My Zsh
+#Oh My Zsh
 
 https://github.com/ohmyzsh/ohmyzsh
 
-
-# You don't need to execute this - it's part of the script already.
-(cd ~/.oh-my-zsh/custom/plugins && git clone https://github.com/zsh-users/zsh-syntax-highlighting)
-(cd ~/.oh-my-zsh/custom/plugins && git clone https://github.com/zsh-users/zsh-autosuggestions)
-
+https://github.com/pixegami/terminal-profile
+cd ~/.oh-my-zsh/custom/plugins && git clone https://github.com/zsh-users/zsh-syntax-highlighting
+cd ~/.oh-my-zsh/custom/plugins && git clone https://github.com/zsh-users/zsh-autosuggestions
 
 
-Spaceship:
+
+#Spaceship:
 
 https://github.com/spaceship-prompt/spaceship-prompt
