@@ -15,6 +15,7 @@ https://github.com/ohmyzsh/ohmyzsh
 https://github.com/pixegami/terminal-profile
 
 cd ~/.oh-my-zsh/custom/plugins && git clone https://github.com/zsh-users/zsh-syntax-highlighting
+
 cd ~/.oh-my-zsh/custom/plugins && git clone https://github.com/zsh-users/zsh-autosuggestions
 
 
