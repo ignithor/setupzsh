@@ -5,6 +5,8 @@ Run
 
 install code
 
+change .zshrc
+
 # Terminator 
 
 Profile for Matrix theme
