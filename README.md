@@ -1,14 +1,21 @@
 # Install my setup
 
+Run 
+"setup_my_ubuntu.sh"
+
+install code
+
 # Terminator 
 
-sudo apt install terminator
+Profile for Matrix theme
 
 ![terminator 1](https://github.com/ignithor/setupzsh/assets/137513199/df22a1ac-8846-4a79-8e7f-c5f3e42b0846)
 ![terminator 2](https://github.com/ignithor/setupzsh/assets/137513199/1230bcc8-8983-453d-8ef4-7cef9f899c15)
 ![terminator3](https://github.com/ignithor/setupzsh/assets/137513199/9ba7d304-6415-456c-a3e9-40abbe7c6837)
 
 # Oh My Zsh
+
+(already done with setup_my_ubuntu.sh)
 
 https://github.com/ohmyzsh/ohmyzsh
 
